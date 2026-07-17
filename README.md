@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Franco Toñanes 👋</h1>
 
-<!--
-**Frantonanes/Frantonanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador web enfocado en crear sitios modernos, funcionales y pensados para proyectos reales.
+</p>
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo aplicaciones web con frontend y backend.
+- Trabajo principalmente con React, TypeScript, Node.js y MongoDB.
+- Estoy construyendo **Tavis**, mi proyecto de servicios digitales y desarrollo web.
+- Continúo aprendiendo sobre arquitectura, experiencia de usuario y posicionamiento web.
+- Vivo en Buenos Aires, Argentina.
+
+## Tecnologías
+
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS · Vite  
+**Backend:** Node.js · Express · MongoDB · Mongoose  
+**Herramientas:** Git · GitHub · Vercel · Railway · Cloudinary
+
+## Proyectos
+
+### Fútbol Analítico
+
+Plataforma de noticias deportivas y predicciones con panel administrativo, gestión de contenido y optimización SEO.
+
+[Visitar Fútbol Analítico](https://futbolanalitico.com)
+
+### Jazz Music
+
+Catálogo de instrumentos musicales con filtros, gestión de productos, marcas y categorías.
+
+[Visitar Jazz Music](https://jazzmusicavellaneda.com)
+
+### ByChandana
+
+Sitio comercial desarrollado para presentar productos y fortalecer la presencia digital de la marca.
+
+[Visitar ByChandana](https://bychandana.com)
+
+### Tavis
+
+Proyecto enfocado en diseño, desarrollo web y soluciones digitales para marcas y emprendimientos.
+
+## Actualmente
+
+Estoy mejorando mis proyectos full stack, profundizando mis conocimientos de React y backend, y desarrollando la identidad digital de Tavis.
