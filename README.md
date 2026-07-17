@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Franco Toñanes 👋</h1>
+<h1 align="center">Hola, soy Franco Tonanes 👋</h1>
 
 <p align="center">
   Desarrollador web enfocado en crear sitios modernos, funcionales y pensados para proyectos reales.
